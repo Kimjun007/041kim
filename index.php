@@ -33,7 +33,8 @@
         <li><a href="W.02_01_oddEvenNumber.php"> Odd-Even-Number </a></li>
         <li><a href="W02_02_grade.php"> Calculate Grade </a></li>
         <li><a href="W06_01_loopProduct.php"> Show Product (Fix data) </a></li>
-        <li><a href="W02_02_grade.php"> CConnect Database </a></li>
+        <li><a href="W07_01_connestDB.php"> CConnect Database </a></li>
+        <li><a href="W07_02_fetchData"> Fetch Data </a></li>
         <li><a href="W02_02_grade.php"> Show Product (From Database) </a></li>
     </ul>
 
